@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadTweetAggregator", "BadTweetAggregator\BadTweetAggregator.csproj", "{1FB2218D-A297-4A2E-9C75-618662226D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadAPIIqvia", "BadAPIIqvia\BadAPIIqvia.csproj", "{6D42F033-EF35-44BD-9E02-21048ECD49CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB2218D-A297-4A2E-9C75-618662226D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB2218D-A297-4A2E-9C75-618662226D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB2218D-A297-4A2E-9C75-618662226D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB2218D-A297-4A2E-9C75-618662226D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D42F033-EF35-44BD-9E02-21048ECD49CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D42F033-EF35-44BD-9E02-21048ECD49CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D42F033-EF35-44BD-9E02-21048ECD49CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D42F033-EF35-44BD-9E02-21048ECD49CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7D7FF73-35C0-4515-9CB6-6F2BDE13C9CE}
+	EndGlobalSection
+EndGlobal
