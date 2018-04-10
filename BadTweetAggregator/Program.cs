@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using BadAPIIqvia;
-using BadAPIIqvia.Client;
-using BadAPIIqvia.Api;
+﻿using BadAPIIqvia.Api;
 using BadAPIIqvia.Model;
-using System.IO;
 using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 
 namespace BadTweetAggregator
 {
